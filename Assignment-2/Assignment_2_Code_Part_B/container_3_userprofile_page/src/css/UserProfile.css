@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.60rem;
+  }
+  
+  p {
+    width: 50%;
+    margin: 12px auto 22px auto;
+  }
+
+  h2 {
+    color: darkblue;
+  }

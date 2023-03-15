@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    margin: 0;
+  }
+  
+  .form-inputs {
+    margin-bottom: 0.60rem;
+  }
+  
+  .error{
+    font-size: x-small;
+    color: red;
+    margin-top: -2px;
+  }

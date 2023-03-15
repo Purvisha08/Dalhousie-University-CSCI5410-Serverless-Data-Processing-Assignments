@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.form-inputs {
+  margin-bottom: 0.60rem;
+}
+
+.userImage{
+  margin-top: 2%;
+}
+
+.error{
+  font-size: x-small;
+  color: red;
+  margin-top: -2px;
+}
